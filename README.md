@@ -14,10 +14,10 @@ Responsive single column website for a cafe.
 This was the second project on the [Superhi Foundation](https://superhi.com/courses/html-css-javascript-foundation) course. It comprises of a single column website for a cafe in London. Beyond the original scope of the tutorial I added further pages and expanded the complexity of the site. This was a good extension of the knowledge I had already gained from the previous projects on the course, and was a more in depth look into media queries. 
 
 ## Screenshots
-![Example screenshot](./img/screenshots/screenshot1.png)
-![Example screenshot](./img/screenshots/screenshot1.png)
-![Example screenshot](./img/screenshots/screenshot1.png)
-![Example screenshot](./img/screenshots/screenshot1.png)
+![Example screenshot 1](./img/screenshots/screenshot1.png)
+![Example screenshot 2](./img/screenshots/screenshot2.png)
+![Example screenshot 3](./img/screenshots/screenshot3.png)
+![Example screenshot 4](./img/screenshots/screenshot4.png)
 
 
 ## Technologies
